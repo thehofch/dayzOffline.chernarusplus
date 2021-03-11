@@ -17988,7 +17988,7 @@
         <usage name="Village"/>
     </type>
     <type name="Money_Ruble10">
-        <nominal>600</nominal>
+        <nominal>60</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>30</min>
