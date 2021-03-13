@@ -18335,8 +18335,8 @@
     </type>
 
     <!-- Start MOD CJ187_Drinks_Food -->
-	
-	<!-- Fruits -->
+    
+    <!-- Fruits -->
     <type name="Apple_Red">
         <nominal>15</nominal>
         <lifetime>3600</lifetime>
@@ -18354,7 +18354,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Apple_Yellow">
+    <type name="Apple_Yellow">
         <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18371,7 +18371,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Apple_Green">
+    <type name="Apple_Green">
         <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18441,7 +18441,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="OilCannister">
+    <type name="OilCannister">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>10800</restock>
@@ -18475,7 +18475,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="SmallOilCannister">
+    <type name="SmallOilCannister">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>10800</restock>
@@ -18494,7 +18494,7 @@
     </type>
 
 <!-- Sodacans: -->
-	    <type name="Cola">
+        <type name="Cola">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>10800</restock>
@@ -18511,7 +18511,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	    <type name="Cola_Cherry">
+        <type name="Cola_Cherry">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>10800</restock>
@@ -18528,7 +18528,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	    <type name="Cola_Light">
+        <type name="Cola_Light">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>10800</restock>
@@ -18545,7 +18545,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	    <type name="MonsterEnergy1">
+        <type name="MonsterEnergy1">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18579,7 +18579,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy3">
+    <type name="MonsterEnergy3">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18596,7 +18596,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy4">
+    <type name="MonsterEnergy4">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18613,7 +18613,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy5">
+    <type name="MonsterEnergy5">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18630,7 +18630,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy6">
+    <type name="MonsterEnergy6">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18647,7 +18647,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy7">
+    <type name="MonsterEnergy7">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18664,7 +18664,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MonsterEnergy8">
+    <type name="MonsterEnergy8">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18681,7 +18681,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MTN_Dew">
+    <type name="MTN_Dew">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18698,7 +18698,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="MTN_Dew2">
+    <type name="MTN_Dew2">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18715,7 +18715,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Pepsi">
+    <type name="Pepsi">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18732,7 +18732,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Pepsi2">
+    <type name="Pepsi2">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18749,7 +18749,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Pepsi_Light">
+    <type name="Pepsi_Light">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18766,7 +18766,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Fanta">
+    <type name="Fanta">
         <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18783,7 +18783,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="Sprite">
+    <type name="Sprite">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>7200</restock>
@@ -18802,7 +18802,7 @@
     </type>
 
 <!-- Foodcans:-->
-	<type name="BlackOlivesCan">
+    <type name="BlackOlivesCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18819,7 +18819,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="BlackOlivesCan_Opened">
+    <type name="BlackOlivesCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18836,7 +18836,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="CookedSpinachCan">
+    <type name="CookedSpinachCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18853,7 +18853,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="CookedSpinachCan_Opened">
+    <type name="CookedSpinachCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18870,7 +18870,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="FavabeansCan">
+    <type name="FavabeansCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18887,7 +18887,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="FavabeansCan_Opened">
+    <type name="FavabeansCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18904,7 +18904,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="FruitcocktailCan">
+    <type name="FruitcocktailCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18921,7 +18921,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="FruitcocktailCan_Opened">
+    <type name="FruitcocktailCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18938,7 +18938,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="GreenbeansCan">
+    <type name="GreenbeansCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18955,7 +18955,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="GreenbeansCan_Opened">
+    <type name="GreenbeansCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18972,7 +18972,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="KidneybeansCan">
+    <type name="KidneybeansCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -18989,7 +18989,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="KidneybeansCan_Opened">
+    <type name="KidneybeansCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -19006,7 +19006,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="SlicedbeetsCan">
+    <type name="SlicedbeetsCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -19023,7 +19023,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="SlicedbeetsCan_Opened">
+    <type name="SlicedbeetsCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -19040,7 +19040,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="SlicedpineappleCan">
+    <type name="SlicedpineappleCan">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -19057,7 +19057,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-		<type name="SlicedpineappleCan_Opened">
+        <type name="SlicedpineappleCan_Opened">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
@@ -19074,7 +19074,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<!-- End MOD CJ187_Drinks_Food -->
+    <!-- End MOD CJ187_Drinks_Food -->
 
     <type name="KOD_AX50">
     <nominal>0</nominal>
@@ -20478,7 +20478,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>		
         <value name="Tier3"/>		
-	</type>
+    </type>
     <type name="FOX_APS_Suppressor">
          <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -20492,7 +20492,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>		
         <value name="Tier3"/>	
-	</type>
+    </type>
     <type name="FOX_Mag_APS">
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
@@ -20506,7 +20506,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>		
         <value name="Tier3"/>			
-	</type>	
+    </type>	
     <type name="FOX_PM">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -20519,7 +20519,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>				
-	</type>
+    </type>
     <type name="FOX_Mag_PM">
         <nominal>22</nominal>
         <lifetime>28800</lifetime>
@@ -20545,7 +20545,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>				
-	</type>
+    </type>
     <type name="FOX_Mag_MP443">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -20558,7 +20558,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>	
-	<type name="FOX_ASVAL">
+    <type name="FOX_ASVAL">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20570,7 +20570,7 @@
         <category name="weapons"/>
         <usage name="Military"/>		
     </type>
-	<type name="FOX_ASVAL_CAMO">
+    <type name="FOX_ASVAL_CAMO">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20582,7 +20582,7 @@
         <category name="weapons"/>
         <usage name="Military"/>		
     </type>
-	<type name="FOX_ASVAL_CAMO_WINTER">
+    <type name="FOX_ASVAL_CAMO_WINTER">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20594,7 +20594,7 @@
         <category name="weapons"/>
         <usage name="Military"/>		
     </type>	
-	<type name="FOX_Mag_ASVAL_20Rnd">
+    <type name="FOX_Mag_ASVAL_20Rnd">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20606,7 +20606,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-	<type name="FOX_Mag_ASVAL_20Rnd_camo">
+    <type name="FOX_Mag_ASVAL_20Rnd_camo">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20618,7 +20618,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-	<type name="FOX_Mag_ASVAL_20Rnd_winter">
+    <type name="FOX_Mag_ASVAL_20Rnd_winter">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20641,7 +20641,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
+    </type>	
     <type name="FOX_VSS">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
@@ -20653,7 +20653,7 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
+    </type>
     <type name="FOX_VSS_GREEN">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
@@ -20665,7 +20665,7 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
+    </type>	
     <type name="FOX_VSS_Suppressor">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
@@ -20677,8 +20677,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
-	<type name="FOX_AKS74UN">
+    </type>	
+    <type name="FOX_AKS74UN">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20689,8 +20689,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_AKS74U_hndgrd">
+    </type>
+    <type name="FOX_AKS74U_hndgrd">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -20701,8 +20701,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_AKS74URIS_hndgrd">
+    </type>
+    <type name="FOX_AKS74URIS_hndgrd">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20713,7 +20713,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
+    </type>
     <type name="FOX_AK_BttstckTac">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -20726,7 +20726,7 @@
         <category name="weapons"/>
         <usage name="Military"/>	
     </type>		
-	<type name="FOX_SVD">
+    <type name="FOX_SVD">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20737,8 +20737,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_SVD_GREEN">
+    </type>
+    <type name="FOX_SVD_GREEN">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20749,8 +20749,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_SVDM">
+    </type>	
+    <type name="FOX_SVDM">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20761,8 +20761,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_SVDM_CAMO">
+    </type>
+    <type name="FOX_SVDM_CAMO">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20773,8 +20773,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_SVDM_CAMO_WINTER">
+    </type>
+    <type name="FOX_SVDM_CAMO_WINTER">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20785,7 +20785,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
+    </type>	
     <type name="FOX_SVD_Suppressor">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
@@ -20797,7 +20797,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
+    </type>
     <type name="FOX_SVD_hndgrd">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -20809,7 +20809,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
+    </type>
     <type name="FOX_SVD_hndgrd_green">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -20821,7 +20821,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
+    </type>	
     <type name="FOX_SVDS_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
@@ -20833,7 +20833,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
+    </type>
     <type name="FOX_SVDS_hndgrd_camo">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
@@ -20845,7 +20845,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
+    </type>
     <type name="FOX_SVDS_hndgrd_camo_wnr">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
@@ -20857,8 +20857,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>		
-	<type name="FOX_FN57">
+    </type>		
+    <type name="FOX_FN57">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20869,8 +20869,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_Mag_FN57_20Rnd">
+    </type>
+    <type name="FOX_Mag_FN57_20Rnd">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20882,8 +20882,8 @@
         <category name="weapons"/>
         <tag name="shelves"/>		
         <usage name="Military"/>
-	</type>
-	<type name="FOX_Mag_FN57_30Rnd">
+    </type>
+    <type name="FOX_Mag_FN57_30Rnd">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20895,8 +20895,8 @@
         <category name="weapons"/>
         <tag name="shelves"/>		
         <usage name="Military"/>
-	</type>		
-	<type name="FOX_EVO">
+    </type>		
+    <type name="FOX_EVO">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20907,8 +20907,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_Mag_EVO">
+    </type>
+    <type name="FOX_Mag_EVO">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20919,8 +20919,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_EVO_hndgrd">
+    </type>
+    <type name="FOX_EVO_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20931,8 +20931,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_EVO_Bttstck">
+    </type>
+    <type name="FOX_EVO_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20943,8 +20943,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_M16A3">
+    </type>
+    <type name="FOX_M16A3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20955,8 +20955,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_M16A3_hndgrd">
+    </type>
+    <type name="FOX_M16A3_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20967,8 +20967,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_M16A3_RIShndgrd">
+    </type>
+    <type name="FOX_M16A3_RIShndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -20979,8 +20979,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7">
+    </type>
+    <type name="FOX_HK416A7">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20991,8 +20991,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_CAMO_AUTUMN">
+    </type>
+    <type name="FOX_HK416A7_CAMO_AUTUMN">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21003,8 +21003,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_CAMO_SUMMER">
+    </type>
+    <type name="FOX_HK416A7_CAMO_SUMMER">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21015,8 +21015,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_CAMO_WINTER">
+    </type>
+    <type name="FOX_HK416A7_CAMO_WINTER">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21027,8 +21027,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416A7_hndgrd">
+    </type>	
+    <type name="FOX_HK416A7_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21039,8 +21039,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_hndgrd_smr">
+    </type>
+    <type name="FOX_HK416A7_hndgrd_smr">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21051,8 +21051,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_hndgrd_atn">
+    </type>
+    <type name="FOX_HK416A7_hndgrd_atn">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21063,8 +21063,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_hndgrd_wnr">
+    </type>
+    <type name="FOX_HK416A7_hndgrd_wnr">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21075,8 +21075,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416A7_Bttstck">
+    </type>	
+    <type name="FOX_HK416A7_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21087,8 +21087,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_Bttstck_camo_atn">
+    </type>
+    <type name="FOX_HK416A7_Bttstck_camo_atn">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21099,8 +21099,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_Bttstck_camo_wnr">
+    </type>
+    <type name="FOX_HK416A7_Bttstck_camo_wnr">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21111,8 +21111,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416A7_Bttstck_camo_smr">
+    </type>
+    <type name="FOX_HK416A7_Bttstck_camo_smr">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21123,8 +21123,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416D">
+    </type>	
+    <type name="FOX_HK416D">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21135,8 +21135,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_SAND">
+    </type>
+    <type name="FOX_HK416D_SAND">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21147,8 +21147,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_OLIVE">
+    </type>
+    <type name="FOX_HK416D_OLIVE">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21159,8 +21159,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_SNOW">
+    </type>
+    <type name="FOX_HK416D_SNOW">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21171,8 +21171,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416D_CQB">
+    </type>	
+    <type name="FOX_HK416D_CQB">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21183,8 +21183,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_CQB_SAND">
+    </type>
+    <type name="FOX_HK416D_CQB_SAND">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21195,8 +21195,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_CQB_OLIVE">
+    </type>
+    <type name="FOX_HK416D_CQB_OLIVE">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21207,8 +21207,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_CQB_SNOW">
+    </type>
+    <type name="FOX_HK416D_CQB_SNOW">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21219,8 +21219,8 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416D_hndgrd">
+    </type>	
+    <type name="FOX_HK416D_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21231,8 +21231,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_hndgrd_sand">
+    </type>
+    <type name="FOX_HK416D_hndgrd_sand">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21243,8 +21243,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_hndgrd_olive">
+    </type>
+    <type name="FOX_HK416D_hndgrd_olive">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21255,8 +21255,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_hndgrd_snow">
+    </type>
+    <type name="FOX_HK416D_hndgrd_snow">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21267,8 +21267,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK416D_Bttstck">
+    </type>	
+    <type name="FOX_HK416D_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21279,8 +21279,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_Bttstck_sand">
+    </type>
+    <type name="FOX_HK416D_Bttstck_sand">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21291,8 +21291,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_Bttstck_olive">
+    </type>
+    <type name="FOX_HK416D_Bttstck_olive">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21303,8 +21303,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK416D_Bttstck_snow">
+    </type>
+    <type name="FOX_HK416D_Bttstck_snow">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21315,8 +21315,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK417">
+    </type>	
+    <type name="FOX_HK417">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21327,8 +21327,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK417_BROWN">
+    </type>
+    <type name="FOX_HK417_BROWN">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21339,8 +21339,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK417_OLIVE">
+    </type>
+    <type name="FOX_HK417_OLIVE">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21351,8 +21351,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_HK417_SNOW">
+    </type>
+    <type name="FOX_HK417_SNOW">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21363,8 +21363,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_HK417_Bttstck">
+    </type>	
+    <type name="FOX_HK417_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21375,8 +21375,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_Bttstck_tan">
+    </type>
+    <type name="FOX_HK417_Bttstck_tan">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21387,8 +21387,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_Bttstck_olive">
+    </type>
+    <type name="FOX_HK417_Bttstck_olive">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21399,8 +21399,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_Bttstck_snow">
+    </type>
+    <type name="FOX_HK417_Bttstck_snow">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21411,8 +21411,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
-	<type name="FOX_HK417_hndgrd">
+    </type>	
+    <type name="FOX_HK417_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21423,8 +21423,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_hndgrd_tan">
+    </type>
+    <type name="FOX_HK417_hndgrd_tan">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21435,8 +21435,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_hndgrd_olive">
+    </type>
+    <type name="FOX_HK417_hndgrd_olive">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21447,8 +21447,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HK417_hndgrd_snow">
+    </type>
+    <type name="FOX_HK417_hndgrd_snow">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21459,7 +21459,7 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
+    </type>	
     <type name="FOX_Mag_HK417_20rnd">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -21508,7 +21508,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>	
-	<type name="FOX_HONEY_BADGER">
+    <type name="FOX_HONEY_BADGER">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21519,8 +21519,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HONEY_BADGER_OLIVE">
+    </type>
+    <type name="FOX_HONEY_BADGER_OLIVE">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21531,8 +21531,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HONEY_BADGER_TAN">
+    </type>
+    <type name="FOX_HONEY_BADGER_TAN">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21543,8 +21543,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HONEY_BADGER_SNOW">
+    </type>
+    <type name="FOX_HONEY_BADGER_SNOW">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21555,8 +21555,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HB_Bttstck">
+    </type>
+    <type name="FOX_HB_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21567,8 +21567,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HB_hndgrd">
+    </type>
+    <type name="FOX_HB_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21579,8 +21579,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_HB_Suppressor">
+    </type>
+    <type name="FOX_HB_Suppressor">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21591,7 +21591,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
+    </type>	
     <type name="FOX_Mag_HB_30rnd">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -21640,7 +21640,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>	
-	<type name="FOX_FNFAL">
+    <type name="FOX_FNFAL">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21651,8 +21651,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_FNFAL_PARA">
+    </type>
+    <type name="FOX_FNFAL_PARA">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21663,8 +21663,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_FNFAL_TAC">
+    </type>
+    <type name="FOX_FNFAL_TAC">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -21675,8 +21675,8 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
-	<type name="FOX_FNFAL_hndgrd">
+    </type>	
+    <type name="FOX_FNFAL_hndgrd">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21687,8 +21687,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_FNFAL_hndgrd_para">
+    </type>
+    <type name="FOX_FNFAL_hndgrd_para">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21699,8 +21699,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>
-	<type name="FOX_FNFAL_hndgrd_rail">
+    </type>
+    <type name="FOX_FNFAL_hndgrd_rail">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21711,8 +21711,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>	
-	<type name="FOX_FNFAL_Bttstck">
+    </type>	
+    <type name="FOX_FNFAL_Bttstck">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21723,8 +21723,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_FNFAL_BttstckPara">
+    </type>
+    <type name="FOX_FNFAL_BttstckPara">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21735,8 +21735,8 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>		
-	</type>
-	<type name="FOX_FNFAL_BttstckPolimer">
+    </type>
+    <type name="FOX_FNFAL_BttstckPolimer">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21747,7 +21747,7 @@
         <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
+    </type>	
     <type name="FOX_Mag_FAL_10rnd">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -21844,7 +21844,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>	
-	<type name="FOX_308_Suppressor">
+    <type name="FOX_308_Suppressor">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -21855,7 +21855,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	</type>	
+    </type>	
     <type name="57x28_AmmoBox_25rnd">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -22749,26 +22749,39 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="HumanSkull">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="tools" />
+    <type name="HumanSkull">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
     </type>
-	<type name="SkullMask">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="tools" />
+    <type name="SkullMask">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
+    </type>
+
+
+    <type name="HumanSkull">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
     </type>
 </types>
