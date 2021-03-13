@@ -23148,4 +23148,40 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
         <category name="containers" />
     </type>
+
+    <type name="HighCapacityVest_admin">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="containers" />
+    </type>
+
+    <type name="HighCapacityVest_administrator">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="containers" />
+    </type>
+
+    <type name="HighCapacityVest_moderator">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="containers" />
+    </type>
 </types>
