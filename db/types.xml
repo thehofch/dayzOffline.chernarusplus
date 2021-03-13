@@ -24304,10 +24304,10 @@
 	
 	<!--Cl0ud's Military Gear: Dark Splinter-->
 	<type name="MilitaryGear_BoonieHat_Splinter_Dark">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24318,10 +24318,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Splinter_Dark">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24332,10 +24332,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24346,10 +24346,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24360,10 +24360,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24372,10 +24372,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24384,10 +24384,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24396,10 +24396,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24408,10 +24408,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24420,10 +24420,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24433,10 +24433,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24445,10 +24445,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24457,10 +24457,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24469,10 +24469,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24481,10 +24481,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24494,10 +24494,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24506,10 +24506,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24518,10 +24518,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Splinter_Dark">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24531,10 +24531,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24544,10 +24544,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Splinter_Dark">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24556,10 +24556,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24570,10 +24570,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24584,10 +24584,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24596,10 +24596,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Splinter_Dark">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24608,10 +24608,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24620,10 +24620,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Splinter_Dark">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
