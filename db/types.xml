@@ -20508,7 +20508,7 @@
         <value name="Tier3"/>			
     </type>	
     <type name="FOX_PM">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>15</min>
