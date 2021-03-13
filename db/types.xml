@@ -48,10 +48,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK74">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -109,10 +109,10 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>7</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -123,10 +123,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AKS74U">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19539,9 +19539,9 @@
     <value name="Tier4" />
   </type>
   <type name="Mag_KOD_PKM_100Rnd">
-    <nominal>0</nominal>
-    <lifetime>3000</lifetime>
-    <restock>1</restock>
+    <nominal>2</nominal>
+    <lifetime>20000</lifetime>
+    <restock>3000</restock>
     <min>1</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
@@ -19552,9 +19552,9 @@
     <value name="Tier4" />
   </type>
   <type name="Mag_KOD_M82A2_10Rnd">
-    <nominal>0</nominal>
-    <lifetime>3000</lifetime>
-    <restock>1</restock>
+    <nominal>2</nominal>
+    <lifetime>20000</lifetime>
+    <restock>30000</restock>
     <min>1</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
@@ -21509,10 +21509,10 @@
         <usage name="Military"/>
     </type>	
     <type name="FOX_HONEY_BADGER">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21521,10 +21521,10 @@
         <usage name="Military"/>		
     </type>
     <type name="FOX_HONEY_BADGER_OLIVE">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21533,10 +21533,10 @@
         <usage name="Military"/>		
     </type>
     <type name="FOX_HONEY_BADGER_TAN">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21545,10 +21545,10 @@
         <usage name="Military"/>		
     </type>
     <type name="FOX_HONEY_BADGER_SNOW">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
