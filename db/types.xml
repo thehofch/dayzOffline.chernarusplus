@@ -11181,7 +11181,7 @@
     </type>
     <type name="Paper">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>60</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
