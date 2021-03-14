@@ -22809,7 +22809,7 @@
     </type>
 
 
-<!--
+    <!--
 	Mod: Cl0ud's Military Gear
 	Version: 10.0
 	
@@ -22844,10 +22844,10 @@
 	
 	<!--Cl0ud's Military Gear: Others-->
 	<type name="MilitaryGear_GP5GasMask_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22856,10 +22856,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_GP5GasMask_Brown">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22868,10 +22868,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_GP5GasMask_Olive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22880,10 +22880,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_GasMask_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22892,10 +22892,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_GasMask_Brown">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22904,10 +22904,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_GasMask_Olive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22916,10 +22916,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22928,10 +22928,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Brown">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22940,10 +22940,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TankerHelmet_Brown">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22952,10 +22952,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TankerHelmet_Tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22964,10 +22964,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TankerHelmet_Olive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22980,10 +22980,10 @@
 	
 	<!--Cl0ud's Military Gear: Partizan-M-->
 	<type name="MilitaryGear_BoonieHat_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -22994,10 +22994,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23008,10 +23008,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23022,10 +23022,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23036,10 +23036,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23048,10 +23048,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23060,10 +23060,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23072,10 +23072,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23084,10 +23084,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23096,10 +23096,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23109,10 +23109,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23121,10 +23121,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23133,10 +23133,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23145,10 +23145,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23157,10 +23157,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23170,10 +23170,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23182,10 +23182,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23194,10 +23194,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23207,10 +23207,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23220,10 +23220,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23232,10 +23232,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23246,10 +23246,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23260,10 +23260,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23272,10 +23272,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23284,10 +23284,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23296,10 +23296,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_PartizanM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23311,10 +23311,10 @@
 	
 	<!--Cl0ud's Military Gear: Duckhunter-->
 	<type name="MilitaryGear_BoonieHat_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23325,10 +23325,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23339,10 +23339,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23356,7 +23356,7 @@
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23367,10 +23367,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23379,10 +23379,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23391,10 +23391,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23403,10 +23403,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23415,10 +23415,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23427,10 +23427,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23440,10 +23440,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23452,10 +23452,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23464,10 +23464,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23476,10 +23476,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23488,10 +23488,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23501,10 +23501,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23513,10 +23513,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23525,10 +23525,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23538,10 +23538,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23551,10 +23551,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23563,10 +23563,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23577,10 +23577,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23591,10 +23591,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23603,10 +23603,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23615,10 +23615,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23627,10 +23627,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Duckhunter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23642,10 +23642,10 @@
 	
 	<!--Cl0ud's Military Gear: Multicam-->
 	<type name="MilitaryGear_BoonieHat_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23656,10 +23656,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23670,10 +23670,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23684,10 +23684,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23698,10 +23698,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23710,10 +23710,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23722,10 +23722,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23734,10 +23734,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23746,10 +23746,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23758,10 +23758,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23771,10 +23771,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23783,10 +23783,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23795,10 +23795,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23807,10 +23807,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23819,10 +23819,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23832,10 +23832,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23844,10 +23844,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23856,10 +23856,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23869,10 +23869,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23882,10 +23882,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23894,10 +23894,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23908,10 +23908,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23922,10 +23922,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23934,10 +23934,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23946,10 +23946,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23958,10 +23958,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Multicam">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23973,10 +23973,10 @@
 	
 	<!--Cl0ud's Military Gear: Splinter-->
 	<type name="MilitaryGear_BoonieHat_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -23987,10 +23987,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24001,10 +24001,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24015,10 +24015,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24029,10 +24029,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24041,10 +24041,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24053,10 +24053,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24065,10 +24065,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24077,10 +24077,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24089,10 +24089,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24102,10 +24102,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24114,10 +24114,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24126,10 +24126,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24141,7 +24141,7 @@
         <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24150,10 +24150,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24163,10 +24163,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24175,10 +24175,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24187,10 +24187,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24200,10 +24200,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24213,10 +24213,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24225,10 +24225,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24239,10 +24239,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24253,10 +24253,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24265,10 +24265,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24277,10 +24277,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24289,10 +24289,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Splinter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24304,10 +24304,10 @@
 	
 	<!--Cl0ud's Military Gear: Dark Splinter-->
 	<type name="MilitaryGear_BoonieHat_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24318,10 +24318,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24332,10 +24332,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24346,10 +24346,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24360,10 +24360,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24372,10 +24372,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24384,10 +24384,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24396,10 +24396,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24408,10 +24408,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24420,10 +24420,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24433,10 +24433,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24445,10 +24445,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24457,10 +24457,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24469,10 +24469,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24481,10 +24481,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24494,10 +24494,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24506,10 +24506,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24518,10 +24518,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24531,10 +24531,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24544,10 +24544,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24556,10 +24556,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24570,10 +24570,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24584,10 +24584,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24596,10 +24596,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24608,10 +24608,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24620,10 +24620,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Splinter_Dark">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24635,10 +24635,10 @@
 	
 	<!--Cl0ud's Military Gear: Tiger-->
 	<type name="MilitaryGear_BoonieHat_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24649,10 +24649,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24663,10 +24663,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24677,10 +24677,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24691,10 +24691,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24703,10 +24703,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24715,10 +24715,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24727,10 +24727,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24739,10 +24739,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24751,10 +24751,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24764,10 +24764,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24776,10 +24776,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24788,10 +24788,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24800,10 +24800,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24812,10 +24812,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24825,10 +24825,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24837,10 +24837,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24849,10 +24849,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24862,10 +24862,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24875,10 +24875,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24887,10 +24887,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24901,10 +24901,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24915,10 +24915,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24927,10 +24927,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24939,10 +24939,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24951,10 +24951,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Tiger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24966,10 +24966,10 @@
 	
 	<!--Cl0ud's Military Gear: Woodland-->
 	<type name="MilitaryGear_BoonieHat_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24980,10 +24980,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -24994,10 +24994,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25008,10 +25008,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25022,10 +25022,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25034,10 +25034,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25046,10 +25046,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25058,10 +25058,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25070,10 +25070,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25082,10 +25082,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25095,10 +25095,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25107,10 +25107,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25119,10 +25119,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25131,10 +25131,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25143,10 +25143,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25156,10 +25156,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25168,10 +25168,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25180,10 +25180,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25193,10 +25193,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25206,10 +25206,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25218,10 +25218,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25232,10 +25232,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25246,10 +25246,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25258,10 +25258,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25270,10 +25270,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25282,10 +25282,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Woodland">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25297,10 +25297,10 @@
 	
 	<!--Cl0ud's Military Gear: FLT-->
 	<type name="MilitaryGear_BoonieHat_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25311,10 +25311,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25325,10 +25325,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25339,10 +25339,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25353,10 +25353,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25365,10 +25365,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25377,10 +25377,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25389,10 +25389,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25401,10 +25401,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25413,10 +25413,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25426,10 +25426,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25438,10 +25438,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25450,10 +25450,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25462,10 +25462,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25474,10 +25474,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25487,10 +25487,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25499,10 +25499,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25511,10 +25511,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25524,10 +25524,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25537,10 +25537,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25549,10 +25549,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25563,10 +25563,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25577,10 +25577,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25589,10 +25589,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25601,10 +25601,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25613,10 +25613,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_FLT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25628,10 +25628,10 @@
 	
 	<!--Cl0ud's Military Gear: DPM-->
 	<type name="MilitaryGear_BoonieHat_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25642,10 +25642,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25656,10 +25656,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25670,10 +25670,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25684,10 +25684,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25696,10 +25696,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25708,10 +25708,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25720,10 +25720,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25732,10 +25732,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25744,10 +25744,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25757,10 +25757,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25769,10 +25769,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25781,10 +25781,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25793,10 +25793,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25805,10 +25805,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25818,10 +25818,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25830,10 +25830,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25842,10 +25842,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25855,10 +25855,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25868,10 +25868,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25880,10 +25880,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25894,10 +25894,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25908,10 +25908,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25920,10 +25920,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25932,10 +25932,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25944,10 +25944,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_DPM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25959,10 +25959,10 @@
 	
 	<!--Cl0ud's Military Gear: MPAT-->
 	<type name="MilitaryGear_BoonieHat_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25973,10 +25973,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -25987,10 +25987,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26001,10 +26001,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26015,10 +26015,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26027,10 +26027,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26039,10 +26039,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26051,10 +26051,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26063,10 +26063,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26078,7 +26078,7 @@
         <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26088,10 +26088,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26100,10 +26100,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26112,10 +26112,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26124,10 +26124,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26136,10 +26136,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26149,10 +26149,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26161,10 +26161,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26173,10 +26173,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26186,10 +26186,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26199,10 +26199,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26211,10 +26211,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26225,10 +26225,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26239,10 +26239,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26251,10 +26251,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26263,10 +26263,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26275,10 +26275,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_MPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26290,10 +26290,10 @@
 	
 	<!--Cl0ud's Military Gear: Partizan-->
 	<type name="MilitaryGear_BoonieHat_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26304,10 +26304,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26318,10 +26318,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26332,10 +26332,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26346,10 +26346,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26358,10 +26358,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26370,10 +26370,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26382,10 +26382,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26394,10 +26394,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26406,10 +26406,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26419,10 +26419,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26431,10 +26431,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26443,10 +26443,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26455,10 +26455,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26467,10 +26467,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26480,10 +26480,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26492,10 +26492,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26504,10 +26504,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26517,10 +26517,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26530,10 +26530,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26542,10 +26542,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26556,10 +26556,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26570,10 +26570,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26582,10 +26582,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26594,10 +26594,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26606,10 +26606,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Partizan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26621,10 +26621,10 @@
 	
 	<!--Cl0ud's Military Gear: Skol-->
 	<type name="MilitaryGear_BoonieHat_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26635,10 +26635,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26649,10 +26649,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26663,10 +26663,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26677,10 +26677,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26689,10 +26689,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26701,10 +26701,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26713,10 +26713,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26725,10 +26725,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26737,10 +26737,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26750,10 +26750,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26762,10 +26762,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26774,10 +26774,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26786,10 +26786,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26798,10 +26798,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26811,10 +26811,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26823,10 +26823,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26835,10 +26835,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26848,10 +26848,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26861,10 +26861,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26873,10 +26873,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26887,10 +26887,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26901,10 +26901,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26913,10 +26913,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26928,7 +26928,7 @@
         <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26937,10 +26937,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Skol">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26952,10 +26952,10 @@
 	
 	<!--Cl0ud's Military Gear: A-TACS-->
 	<type name="MilitaryGear_BoonieHat_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26966,10 +26966,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26980,10 +26980,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -26994,10 +26994,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27008,10 +27008,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27020,10 +27020,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27032,10 +27032,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27044,10 +27044,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27056,10 +27056,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27071,7 +27071,7 @@
         <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27081,10 +27081,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27093,10 +27093,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27105,10 +27105,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27117,10 +27117,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27129,10 +27129,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27142,10 +27142,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27154,10 +27154,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27166,10 +27166,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27179,10 +27179,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27192,10 +27192,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27204,10 +27204,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27218,10 +27218,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27232,10 +27232,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27244,10 +27244,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27256,10 +27256,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27268,10 +27268,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_ATACS">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27283,10 +27283,10 @@
 	
 	<!--Cl0ud's Military Gear: CADPAT-->
 	<type name="MilitaryGear_BoonieHat_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27297,10 +27297,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27311,10 +27311,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27325,10 +27325,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27339,10 +27339,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27351,10 +27351,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27363,10 +27363,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27375,10 +27375,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27387,10 +27387,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27399,10 +27399,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27412,10 +27412,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27424,10 +27424,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27436,10 +27436,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27448,10 +27448,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27460,10 +27460,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27473,10 +27473,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27485,10 +27485,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27497,10 +27497,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27510,10 +27510,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27523,10 +27523,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27535,10 +27535,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27549,10 +27549,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27563,10 +27563,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27575,10 +27575,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27587,10 +27587,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27599,10 +27599,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_CADPAT">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27614,10 +27614,10 @@
 	
 	<!--Cl0ud's Military Gear: Tropic-->
 	<type name="MilitaryGear_BoonieHat_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27628,10 +27628,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27642,10 +27642,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27656,10 +27656,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27670,10 +27670,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27682,10 +27682,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27694,10 +27694,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27706,10 +27706,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27718,10 +27718,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27730,10 +27730,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27743,10 +27743,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27755,10 +27755,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27767,10 +27767,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27779,10 +27779,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27791,10 +27791,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27804,10 +27804,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27816,10 +27816,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27828,10 +27828,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27841,10 +27841,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27854,10 +27854,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27866,10 +27866,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PlateCarrier_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27880,10 +27880,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27894,10 +27894,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27906,10 +27906,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CombatJacket_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27918,10 +27918,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27930,10 +27930,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Tropic">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27945,10 +27945,10 @@
 	
 	<!--Cl0ud's Military Gear: Yeger-->
 	<type name="MilitaryGear_BoonieHat_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27959,10 +27959,10 @@
         <usage name="Village"/>
     </type>
 	<type name="MilitaryGear_Beanie_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27973,10 +27973,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -27987,10 +27987,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28001,10 +28001,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28013,10 +28013,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalShirt_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28025,10 +28025,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_FieldPants_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28037,10 +28037,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_PatrolPants_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28049,10 +28049,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TacticalPants_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28061,10 +28061,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HighCapVest_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28074,10 +28074,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28086,10 +28086,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AliceBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28098,10 +28098,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_AssaultBag_Yeger">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28110,10 +28110,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CoyoteBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28122,10 +28122,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_HuntingBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28135,10 +28135,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="MilitaryGear_MountainBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28147,10 +28147,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_TortillaBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28159,10 +28159,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28172,10 +28172,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28185,10 +28185,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_Bandana_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28200,7 +28200,7 @@
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28211,10 +28211,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28225,10 +28225,10 @@
 		<value name="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28240,7 +28240,7 @@
         <nominal>1</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -28249,10 +28249,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_LargeTent_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28261,10 +28261,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MilitaryGear_CarTent_Yeger">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <nominal>0</nominal>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28272,7 +28272,20 @@
         <category name="tools"/>
         <usage name="Military"/>
     </type>
-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	<!--Cl0ud's Military Gear: GhillieSuit-->
 	<type name="MilitaryGear_GhillieSuit_PartizanM">
@@ -28749,6 +28762,8 @@
         <lifetime>5600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
+	
+	
 	
 	<!--Cl0ud's Military Gear: MassHeavyPlateVests-->
 	<type name="MassHeavyPlateVest_PartizanM">
