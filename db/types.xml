@@ -28,7 +28,7 @@
 	</type>
 	<type name="AK101">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
@@ -37,7 +37,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			10
 		</min>
 		<quantmin>
 			-1
@@ -61,7 +61,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			0
@@ -105,7 +105,7 @@
 	</type>
 	<type name="AK74">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
@@ -114,7 +114,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -184,13 +184,13 @@
 	</type>
 	<type name="AK74_Hndgrd">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			2
@@ -210,13 +210,13 @@
 	</type>
 	<type name="AK74_WoodBttstck">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			2
@@ -236,7 +236,7 @@
 	</type>
 	<type name="AKM">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
@@ -245,7 +245,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -264,7 +264,7 @@
 	</type>
 	<type name="AKS74U">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			28800
@@ -273,7 +273,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			20
 		</min>
 		<quantmin>
 			-1
@@ -315,13 +315,13 @@
 	</type>
 	<type name="AKS74U_Bttstck">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			2
@@ -372,7 +372,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			5
@@ -394,16 +394,16 @@
 	</type>
 	<type name="AK_FoldingBttstck">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			20
 		</min>
 		<quantmin>
 			-1
@@ -546,16 +546,16 @@
 	</type>
 	<type name="AK_PlasticHndgrd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -572,16 +572,16 @@
 	</type>
 	<type name="AK_RailHndgrd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -649,16 +649,16 @@
 	</type>
 	<type name="AK_Suppressor">
 		<nominal>
-			5
+			35
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			14400
+			1800
 		</restock>
 		<min>
-			2
+			27
 		</min>
 		<quantmin>
 			-1
@@ -675,16 +675,16 @@
 	</type>
 	<type name="AK_WoodBttstck">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			20
 		</min>
 		<quantmin>
 			-1
@@ -751,16 +751,16 @@
 	</type>
 	<type name="AK_WoodHndgrd">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			20
 		</min>
 		<quantmin>
 			-1
@@ -827,16 +827,16 @@
 	</type>
 	<type name="ASVAL">
 		<nominal>
-			3
+			13
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			1
+			8
 		</min>
 		<quantmin>
 			-1
@@ -988,7 +988,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			6
@@ -1014,7 +1014,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -1067,7 +1067,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -1094,7 +1094,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			40
@@ -1121,7 +1121,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -1149,7 +1149,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1178,7 +1178,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1204,7 +1204,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1230,7 +1230,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1256,7 +1256,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -1284,7 +1284,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			10
@@ -1312,7 +1312,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -1340,7 +1340,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1368,7 +1368,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -1396,7 +1396,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -1425,7 +1425,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -1453,7 +1453,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			12
@@ -1483,7 +1483,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -1510,7 +1510,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			2
@@ -1563,7 +1563,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			60
@@ -1594,7 +1594,7 @@
 			28800
 		</lifetime>
 		<restock>
-			60
+			1800
 		</restock>
 		<min>
 			60
@@ -1622,7 +1622,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			40
@@ -1653,7 +1653,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			70
@@ -1684,7 +1684,7 @@
 			180
 		</restock>
 		<min>
-			30
+			40
 		</min>
 		<quantmin>
 			10
@@ -1704,7 +1704,7 @@
 	</type>
 	<type name="Ammo_308WinTracer">
 		<nominal>
-			30
+			60
 		</nominal>
 		<lifetime>
 			28800
@@ -1713,7 +1713,7 @@
 			1800
 		</restock>
 		<min>
-			20
+			40
 		</min>
 		<quantmin>
 			10
@@ -1739,7 +1739,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			60
@@ -1767,7 +1767,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			60
@@ -1822,7 +1822,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -1849,7 +1849,7 @@
 			28800
 		</lifetime>
 		<restock>
-			180
+			1800
 		</restock>
 		<min>
 			7
@@ -1870,16 +1870,16 @@
 	</type>
 	<type name="Ammo_556x45">
 		<nominal>
-			50
+			80
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			30
+			50
 		</min>
 		<quantmin>
 			10
@@ -1936,7 +1936,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			70
@@ -20073,7 +20073,7 @@
 	</type>
 	<type name="Mag_AK101_30Rnd">
 		<nominal>
-			15
+			45
 		</nominal>
 		<lifetime>
 			28800
@@ -20082,7 +20082,7 @@
 			1800
 		</restock>
 		<min>
-			10
+			30
 		</min>
 		<quantmin>
 			-1
@@ -20101,7 +20101,7 @@
 	</type>
 	<type name="Mag_AK74_30Rnd">
 		<nominal>
-			20
+			50
 		</nominal>
 		<lifetime>
 			28800
@@ -20110,7 +20110,7 @@
 			1800
 		</restock>
 		<min>
-			15
+			35
 		</min>
 		<quantmin>
 			-1
@@ -20130,7 +20130,7 @@
 	</type>
 	<type name="Mag_AKM_30Rnd">
 		<nominal>
-			5
+			25
 		</nominal>
 		<lifetime>
 			28800
@@ -20139,7 +20139,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			20
 		</min>
 		<quantmin>
 			-1
@@ -20158,7 +20158,7 @@
 	</type>
 	<type name="Mag_AKM_Drum75Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
@@ -20167,7 +20167,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			9
 		</min>
 		<quantmin>
 			-1
@@ -20184,16 +20184,16 @@
 	</type>
 	<type name="Mag_AKM_Palm30Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			2700
+			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -20212,16 +20212,16 @@
 	</type>
 	<type name="Mag_CMAG_10Rnd">
 		<nominal>
-			12
+			50
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			2700
+			1800
 		</restock>
 		<min>
-			10
+			40
 		</min>
 		<quantmin>
 			10
@@ -20240,16 +20240,16 @@
 	</type>
 	<type name="Mag_CMAG_20Rnd">
 		<nominal>
-			8
+			18
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
-			5
+			15
 		</min>
 		<quantmin>
 			-1
@@ -20268,16 +20268,16 @@
 	</type>
 	<type name="Mag_CMAG_30Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -20296,7 +20296,7 @@
 	</type>
 	<type name="Mag_CMAG_40Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
@@ -20305,7 +20305,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -20328,7 +20328,7 @@
 			14400
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -20416,7 +20416,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -20637,7 +20637,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			20
@@ -20660,16 +20660,16 @@
 	</type>
 	<type name="Mag_STANAGCoupled_30Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			2700
+			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -20686,7 +20686,7 @@
 	</type>
 	<type name="Mag_STANAG_30Rnd">
 		<nominal>
-			5
+			35
 		</nominal>
 		<lifetime>
 			28800
@@ -20695,7 +20695,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			25
 		</min>
 		<quantmin>
 			-1
@@ -20714,7 +20714,7 @@
 	</type>
 	<type name="Mag_SVD_10Rnd">
 		<nominal>
-			4
+			14
 		</nominal>
 		<lifetime>
 			28800
@@ -20723,7 +20723,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			10
@@ -20770,7 +20770,7 @@
 	</type>
 	<type name="Mag_Saiga_8Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			14400
@@ -20779,7 +20779,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			20
@@ -20798,7 +20798,7 @@
 	</type>
 	<type name="Mag_Saiga_Drum20Rnd">
 		<nominal>
-			5
+			15
 		</nominal>
 		<lifetime>
 			14400
@@ -20807,7 +20807,7 @@
 			1800
 		</restock>
 		<min>
-			2
+			12
 		</min>
 		<quantmin>
 			-1
@@ -20824,7 +20824,7 @@
 	</type>
 	<type name="Mag_UMP_25Rnd">
 		<nominal>
-			18
+			38
 		</nominal>
 		<lifetime>
 			28800
@@ -20833,7 +20833,7 @@
 			1800
 		</restock>
 		<min>
-			12
+			22
 		</min>
 		<quantmin>
 			-1
@@ -20852,7 +20852,7 @@
 	</type>
 	<type name="Mag_VAL_20Rnd">
 		<nominal>
-			3
+			10
 		</nominal>
 		<lifetime>
 			28800
@@ -20861,7 +20861,7 @@
 			3600
 		</restock>
 		<min>
-			2
+			8
 		</min>
 		<quantmin>
 			10
@@ -20879,7 +20879,7 @@
 	</type>
 	<type name="Mag_VSS_10Rnd">
 		<nominal>
-			4
+			10
 		</nominal>
 		<lifetime>
 			28800
@@ -20888,7 +20888,7 @@
 			3600
 		</restock>
 		<min>
-			2
+			8
 		</min>
 		<quantmin>
 			10
@@ -20906,16 +20906,16 @@
 	</type>
 	<type name="Magnum">
 		<nominal>
-			25
+			35
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			20
+			30
 		</min>
 		<quantmin>
 			-1
@@ -39019,7 +39019,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39051,7 +39051,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39083,7 +39083,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39115,7 +39115,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39147,7 +39147,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39179,7 +39179,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39212,7 +39212,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39244,7 +39244,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39276,7 +39276,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39308,7 +39308,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39340,7 +39340,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39372,7 +39372,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39404,7 +39404,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39436,7 +39436,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39468,7 +39468,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39500,7 +39500,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39532,7 +39532,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39564,7 +39564,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39627,7 +39627,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39690,7 +39690,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39722,7 +39722,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -39754,7 +39754,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -40221,7 +40221,7 @@
 			-1
 		</quantmax>
 		<cost>
-			30
+			100
 		</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="food" />
@@ -43111,7 +43111,7 @@
 	</type>
 	<type name="FOX_APS">
 		<nominal>
-			8
+			18
 		</nominal>
 		<lifetime>
 			28800
@@ -43120,7 +43120,7 @@
 			1800
 		</restock>
 		<min>
-			6
+			15
 		</min>
 		<quantmin>
 			-1
@@ -43145,7 +43145,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			3
@@ -43173,7 +43173,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			8
@@ -43201,7 +43201,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			15
@@ -43228,7 +43228,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			18
@@ -43249,16 +43249,16 @@
 	</type>
 	<type name="FOX_MP443">
 		<nominal>
-			6
+			16
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			4
+			14
 		</min>
 		<quantmin>
 			-1
@@ -43282,7 +43282,7 @@
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
 			8
@@ -43302,16 +43302,16 @@
 	</type>
 	<type name="FOX_ASVAL">
 		<nominal>
-			2
+			12
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
-			1
+			10
 		</min>
 		<quantmin>
 			-1
@@ -43334,7 +43334,7 @@
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
 			1
@@ -43360,7 +43360,7 @@
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
 			1
@@ -43380,7 +43380,7 @@
 	</type>
 	<type name="FOX_Mag_ASVAL_20Rnd">
 		<nominal>
-			6
+			16
 		</nominal>
 		<lifetime>
 			28800
@@ -43389,7 +43389,7 @@
 			1800
 		</restock>
 		<min>
-			4
+			14
 		</min>
 		<quantmin>
 			10
@@ -43406,7 +43406,7 @@
 	</type>
 	<type name="FOX_Mag_ASVAL_20Rnd_camo">
 		<nominal>
-			6
+			16
 		</nominal>
 		<lifetime>
 			28800
@@ -43415,7 +43415,7 @@
 			1800
 		</restock>
 		<min>
-			4
+			14
 		</min>
 		<quantmin>
 			10
@@ -43432,7 +43432,7 @@
 	</type>
 	<type name="FOX_Mag_ASVAL_20Rnd_winter">
 		<nominal>
-			6
+			16
 		</nominal>
 		<lifetime>
 			28800
@@ -43441,7 +43441,7 @@
 			1800
 		</restock>
 		<min>
-			4
+			14
 		</min>
 		<quantmin>
 			10
@@ -43458,7 +43458,7 @@
 	</type>
 	<type name="FOX_ASVAL_Bttstck">
 		<nominal>
-			2
+			12
 		</nominal>
 		<lifetime>
 			28800
@@ -43467,7 +43467,7 @@
 			1800
 		</restock>
 		<min>
-			1
+			10
 		</min>
 		<quantmin>
 			-1
@@ -43484,16 +43484,16 @@
 	</type>
 	<type name="FOX_VSS">
 		<nominal>
-			2
+			12
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
-			1
+			10
 		</min>
 		<quantmin>
 			-1
@@ -43516,7 +43516,7 @@
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
 			1
@@ -43562,7 +43562,7 @@
 	</type>
 	<type name="FOX_AKS74UN">
 		<nominal>
-			15
+			35
 		</nominal>
 		<lifetime>
 			28800
@@ -43571,7 +43571,7 @@
 			1800
 		</restock>
 		<min>
-			12
+			30
 		</min>
 		<quantmin>
 			-1
@@ -43588,16 +43588,16 @@
 	</type>
 	<type name="FOX_AKS74U_hndgrd">
 		<nominal>
-			4
+			24
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<min>
-			2
+			22
 		</min>
 		<quantmin>
 			-1
@@ -43666,16 +43666,16 @@
 	</type>
 	<type name="FOX_SVD">
 		<nominal>
-			3
+			12
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			3600
+			1800
 		</restock>
 		<min>
-			1
+			10
 		</min>
 		<quantmin>
 			-1
@@ -48114,7 +48114,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48140,7 +48140,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48166,7 +48166,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48192,7 +48192,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48218,7 +48218,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48244,7 +48244,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48270,7 +48270,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48296,7 +48296,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48322,7 +48322,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48348,7 +48348,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48375,7 +48375,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48403,7 +48403,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48431,7 +48431,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48696,7 +48696,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48748,7 +48748,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48775,7 +48775,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48827,7 +48827,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48854,7 +48854,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48881,7 +48881,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48907,7 +48907,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48963,7 +48963,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -48989,7 +48989,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49015,7 +49015,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49041,7 +49041,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49068,7 +49068,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49096,7 +49096,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49124,7 +49124,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49389,7 +49389,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49441,7 +49441,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49468,7 +49468,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49520,7 +49520,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49547,7 +49547,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49574,7 +49574,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49600,7 +49600,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49656,7 +49656,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49682,7 +49682,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49708,7 +49708,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49734,7 +49734,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49761,7 +49761,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49789,7 +49789,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -49817,7 +49817,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50082,7 +50082,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50134,7 +50134,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50161,7 +50161,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50213,7 +50213,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50240,7 +50240,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50267,7 +50267,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50293,7 +50293,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50349,7 +50349,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50375,7 +50375,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50401,7 +50401,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50427,7 +50427,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50454,7 +50454,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50482,7 +50482,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50510,7 +50510,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50775,7 +50775,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50827,7 +50827,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50854,7 +50854,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50906,7 +50906,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50933,7 +50933,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50960,7 +50960,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -50986,7 +50986,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51042,7 +51042,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51068,7 +51068,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51094,7 +51094,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51120,7 +51120,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51147,7 +51147,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51175,7 +51175,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51203,7 +51203,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51468,7 +51468,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51520,7 +51520,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51547,7 +51547,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51599,7 +51599,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51626,7 +51626,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51653,7 +51653,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51679,7 +51679,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51735,7 +51735,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51761,7 +51761,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51787,7 +51787,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51813,7 +51813,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51840,7 +51840,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51868,7 +51868,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -51896,7 +51896,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52161,7 +52161,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52213,7 +52213,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52240,7 +52240,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52292,7 +52292,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52319,7 +52319,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52346,7 +52346,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52372,7 +52372,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52428,7 +52428,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52454,7 +52454,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52480,7 +52480,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52506,7 +52506,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52533,7 +52533,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52561,7 +52561,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52589,7 +52589,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52854,7 +52854,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52906,7 +52906,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52933,7 +52933,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -52985,7 +52985,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53012,7 +53012,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53039,7 +53039,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53065,7 +53065,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53121,7 +53121,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53147,7 +53147,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53173,7 +53173,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53199,7 +53199,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53226,7 +53226,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53254,7 +53254,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53282,7 +53282,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53547,7 +53547,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53599,7 +53599,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53626,7 +53626,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53678,7 +53678,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53705,7 +53705,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53732,7 +53732,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53758,7 +53758,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53814,7 +53814,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53840,7 +53840,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53866,7 +53866,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53892,7 +53892,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53919,7 +53919,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53947,7 +53947,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -53975,7 +53975,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54240,7 +54240,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54292,7 +54292,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54319,7 +54319,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54371,7 +54371,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54398,7 +54398,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54425,7 +54425,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54451,7 +54451,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54507,7 +54507,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54533,7 +54533,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54559,7 +54559,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54585,7 +54585,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54612,7 +54612,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54640,7 +54640,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54668,7 +54668,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54933,7 +54933,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -54985,7 +54985,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55012,7 +55012,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55064,7 +55064,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55091,7 +55091,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55118,7 +55118,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55144,7 +55144,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55200,7 +55200,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55226,7 +55226,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55252,7 +55252,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55278,7 +55278,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55305,7 +55305,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55333,7 +55333,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55361,7 +55361,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55626,7 +55626,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55678,7 +55678,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55705,7 +55705,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55757,7 +55757,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55784,7 +55784,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55811,7 +55811,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55837,7 +55837,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55893,7 +55893,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55919,7 +55919,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55945,7 +55945,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55971,7 +55971,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -55998,7 +55998,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56026,7 +56026,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56054,7 +56054,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56319,7 +56319,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56371,7 +56371,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56398,7 +56398,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56450,7 +56450,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56477,7 +56477,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56504,7 +56504,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56530,7 +56530,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56586,7 +56586,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56612,7 +56612,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56638,7 +56638,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56664,7 +56664,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56691,7 +56691,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56719,7 +56719,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -56747,7 +56747,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57012,7 +57012,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57064,7 +57064,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57091,7 +57091,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57143,7 +57143,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57170,7 +57170,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57197,7 +57197,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57223,7 +57223,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57279,7 +57279,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57305,7 +57305,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57331,7 +57331,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57357,7 +57357,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57384,7 +57384,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57412,7 +57412,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57440,7 +57440,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57705,7 +57705,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57757,7 +57757,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57784,7 +57784,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57836,7 +57836,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57863,7 +57863,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57890,7 +57890,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57916,7 +57916,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57972,7 +57972,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -57998,7 +57998,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58024,7 +58024,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58050,7 +58050,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58077,7 +58077,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58105,7 +58105,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58133,7 +58133,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58398,7 +58398,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58450,7 +58450,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58477,7 +58477,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58529,7 +58529,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58556,7 +58556,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58583,7 +58583,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58609,7 +58609,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58665,7 +58665,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58691,7 +58691,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58717,7 +58717,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58743,7 +58743,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58770,7 +58770,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58798,7 +58798,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -58826,7 +58826,7 @@
 			7200
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59091,7 +59091,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59143,7 +59143,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59170,7 +59170,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59222,7 +59222,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59249,7 +59249,7 @@
 			10800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59276,7 +59276,7 @@
 			1800
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59302,7 +59302,7 @@
 			2700
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59358,7 +59358,7 @@
 			21600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59384,7 +59384,7 @@
 			5600
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59410,7 +59410,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
@@ -59436,7 +59436,7 @@
 			3888000
 		</lifetime>
 		<restock>
-			0
+			1800
 		</restock>
 		<nominal>
 			0
