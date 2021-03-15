@@ -8,7 +8,7 @@
 			14400
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			8
@@ -28,16 +28,16 @@
 	</type>
 	<type name="AK101">
 		<nominal>
-			15
+			7
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			10
+			3
 		</min>
 		<quantmin>
 			-1
@@ -105,16 +105,16 @@
 	</type>
 	<type name="AK74">
 		<nominal>
-			15
+			7
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			12
+			3
 		</min>
 		<quantmin>
 			-1
@@ -184,13 +184,13 @@
 	</type>
 	<type name="AK74_Hndgrd">
 		<nominal>
-			25
+			10
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			2
@@ -210,13 +210,13 @@
 	</type>
 	<type name="AK74_WoodBttstck">
 		<nominal>
-			25
+			10
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			2
@@ -236,16 +236,16 @@
 	</type>
 	<type name="AKM">
 		<nominal>
-			15
+			5
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			12
+			3
 		</min>
 		<quantmin>
 			-1
@@ -264,16 +264,16 @@
 	</type>
 	<type name="AKS74U">
 		<nominal>
-			25
+			7
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			20
+			4
 		</min>
 		<quantmin>
 			-1
@@ -315,13 +315,13 @@
 	</type>
 	<type name="AKS74U_Bttstck">
 		<nominal>
-			25
+			15
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			2
@@ -394,16 +394,16 @@
 	</type>
 	<type name="AK_FoldingBttstck">
 		<nominal>
-			25
+			5
 		</nominal>
 		<lifetime>
 			14400
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			20
+			2
 		</min>
 		<quantmin>
 			-1
@@ -675,7 +675,7 @@
 	</type>
 	<type name="AK_WoodBttstck">
 		<nominal>
-			25
+			10
 		</nominal>
 		<lifetime>
 			14400
@@ -684,7 +684,7 @@
 			1800
 		</restock>
 		<min>
-			20
+			4
 		</min>
 		<quantmin>
 			-1
@@ -751,7 +751,7 @@
 	</type>
 	<type name="AK_WoodHndgrd">
 		<nominal>
-			25
+			9
 		</nominal>
 		<lifetime>
 			14400
@@ -760,7 +760,7 @@
 			1800
 		</restock>
 		<min>
-			20
+			3
 		</min>
 		<quantmin>
 			-1
@@ -827,7 +827,7 @@
 	</type>
 	<type name="ASVAL">
 		<nominal>
-			13
+			5
 		</nominal>
 		<lifetime>
 			28800
@@ -836,7 +836,7 @@
 			1800
 		</restock>
 		<min>
-			8
+			2
 		</min>
 		<quantmin>
 			-1
@@ -20720,7 +20720,7 @@
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			12
@@ -31450,7 +31450,7 @@
 			0
 		</nominal>
 		<lifetime>
-			3
+			3888000
 		</lifetime>
 		<restock>
 			1800
@@ -31474,7 +31474,7 @@
 			0
 		</nominal>
 		<lifetime>
-			3
+			3888000
 		</lifetime>
 		<restock>
 			0
@@ -31498,7 +31498,7 @@
 			0
 		</nominal>
 		<lifetime>
-			3
+			3888000
 		</lifetime>
 		<restock>
 			0
@@ -43666,16 +43666,16 @@
 	</type>
 	<type name="FOX_SVD">
 		<nominal>
-			12
+			5
 		</nominal>
 		<lifetime>
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
-			10
+			2
 		</min>
 		<quantmin>
 			-1
@@ -43692,7 +43692,7 @@
 	</type>
 	<type name="FOX_SVD_GREEN">
 		<nominal>
-			3
+			2
 		</nominal>
 		<lifetime>
 			28800
@@ -43802,7 +43802,7 @@
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			4
@@ -43828,7 +43828,7 @@
 			28800
 		</lifetime>
 		<restock>
-			1800
+			3600
 		</restock>
 		<min>
 			2
